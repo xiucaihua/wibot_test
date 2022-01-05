@@ -1,0 +1,18 @@
+#python
+user: admin
+psw: 123456
+
+
+
+- user: admin1
+  psw: '123456'
+  email: 1198874993@QQ.com
+
+- user: admin2
+  psw: '111111'
+  email: 1198874993@QQ.com
+
+
+- user: admin3
+  psw: '222222'
+  email: 1198874993@QQ.com

@@ -1,0 +1,21 @@
+#python
+{
+"username":"admin"
+"psw":"123456"
+}
+
+
+#yaml
+user: admin
+pwd: 123456
+
+# python3.6
+"num":{
+"username": "admin"
+"password":"123456"
+}
+
+#yaml2
+num2:
+user: admin
+psd: 123456

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78fe96bc-1534-490a-88b2-ea563e841420" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Day2$T.coverage" NAME="T Coverage Results" MODIFIED="1528283047881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Po" />
+    <SUITE FILE_PATH="coverage/Day2$AddStudent_Test.coverage" NAME="AddStudent_Test Coverage Results" MODIFIED="1528382476993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_testlogin_testloginCase_test_username_error_login_005.coverage" NAME="Unittests for testlogin.testloginCase.test_username_error_login_005 Coverage Results" MODIFIED="1528385045710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_testlogin_testloginCase.coverage" NAME="Unittests for testlogin.testloginCase Coverage Results" MODIFIED="1528387869985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_in_run_alltest_py.coverage" NAME="Unittests in run_alltest.py Coverage Results" MODIFIED="1640916703637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allfile/run" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_in_AddSubject_Test_py.coverage" NAME="Unittests in AddSubject_Test.py Coverage Results" MODIFIED="1528468677187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$DbTools.coverage" NAME="DbTools Coverage Results" MODIFIED="1528293206023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/FramWork$run.coverage" NAME="run Coverage Results" MODIFIED="1641281586046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allfile/run" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_login_Test_testloginCase_test_username_emty_login_002.coverage" NAME="Unittests for login_Test.testloginCase.test_username_emty_login_002 Coverage Results" MODIFIED="1528387576877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_AddSubject_Test_AddSubject.coverage" NAME="Unittests for AddSubject_Test.AddSubject Coverage Results" MODIFIED="1528514369692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_AddStudent_Test_AddStudentTest_test_addstudent_success.coverage" NAME="Unittests for AddStudent_Test.AddStudentTest.test_addstudent_success Coverage Results" MODIFIED="1528514643793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$SubjectManger.coverage" NAME="SubjectManger Coverage Results" MODIFIED="1528438775471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Po/Community" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_Login_Test_testloginCase.coverage" NAME="Unittests for Login_Test.testloginCase Coverage Results" MODIFIED="1636638825946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$AllTest.coverage" NAME="AllTest Coverage Results" MODIFIED="1528296702122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$db.coverage" NAME="db Coverage Results" MODIFIED="1528290692173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Driectior/database" />
+    <SUITE FILE_PATH="coverage/FramWork$ExcelTools.coverage" NAME="ExcelTools Coverage Results" MODIFIED="1636635987132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_AddStudent_Test_AddStudentTest_test_addstudent_success.coverage" NAME="Unittests for AddStudent_Test.AddStudentTest.test_addstudent_success Coverage Results" MODIFIED="1528383718906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_AddStudent_Test_AddStudentTest.coverage" NAME="Unittests for AddStudent_Test.AddStudentTest Coverage Results" MODIFIED="1528383566951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$ShareBusiness.coverage" NAME="ShareBusiness Coverage Results" MODIFIED="1528377865768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_AddSubject_Test_AddSubject_test_success_addSubject.coverage" NAME="Unittests for AddSubject_Test.AddSubject.test_success_addSubject Coverage Results" MODIFIED="1528468915427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$yamlTool.coverage" NAME="yamlTool Coverage Results" MODIFIED="1637208420220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_in_AddStudent_Test_py.coverage" NAME="Unittests in AddStudent_Test.py Coverage Results" MODIFIED="1528382288302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$testlogin.coverage" NAME="testlogin Coverage Results" MODIFIED="1528385222562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$SubjectManger.coverage" NAME="SubjectManger Coverage Results" MODIFIED="1528513991627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Po/Community" />
+    <SUITE FILE_PATH="coverage/FramWork$run_sendfile.coverage" NAME="run_sendfile Coverage Results" MODIFIED="1641287908395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allfile/run" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_login_Test_testloginCase.coverage" NAME="Unittests for login_Test.testloginCase Coverage Results" MODIFIED="1528387901346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$MainTest.coverage" NAME="MainTest Coverage Results" MODIFIED="1528439246356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$MainTest.coverage" NAME="MainTest Coverage Results" MODIFIED="1637227717596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$listDate.coverage" NAME="listDate Coverage Results" MODIFIED="1637037181431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Day2$Testdb.coverage" NAME="Testdb Coverage Results" MODIFIED="1528290624479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_in_Login_Test_py.coverage" NAME="Unittests in Login_Test.py Coverage Results" MODIFIED="1636679425752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_Login_Test_testloginCase_test_sucess_login_001.coverage" NAME="Unittests for Login_Test.testloginCase.test_sucess_login_001 Coverage Results" MODIFIED="1636966174695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_in_run_assistant_py.coverage" NAME="Unittests in run_assistant.py Coverage Results" MODIFIED="1641286981050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allfile/run" />
+    <SUITE FILE_PATH="coverage/FramWork$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1636876259169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/BaiduNetdiskDownload" />
+    <SUITE FILE_PATH="coverage/Day2$Unittests_for_testlogin_testloginCase_test_username_error_login_004.coverage" NAME="Unittests for testlogin.testloginCase.test_username_error_login_004 Coverage Results" MODIFIED="1528385150900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$CsvTools.coverage" NAME="CsvTools Coverage Results" MODIFIED="1636617101640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/FramWork$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1636970911671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Po/login_page" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_in_run_group_py.coverage" NAME="Unittests in run_group.py Coverage Results" MODIFIED="1641285305682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/allfile/run" />
+    <SUITE FILE_PATH="coverage/FramWork$Unittests_for_AddStudent_Test_AddStudentTest.coverage" NAME="Unittests for AddStudent_Test.AddStudentTest Coverage Results" MODIFIED="1528515182965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$IniFileTools.coverage" NAME="IniFileTools Coverage Results" MODIFIED="1636615838786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/FramWork$testt.coverage" NAME="testt Coverage Results" MODIFIED="1636949338576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$YamlTools.coverage" NAME="YamlTools Coverage Results" MODIFIED="1637244794172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/configTools" />
+    <SUITE FILE_PATH="coverage/Day2$login_Test.coverage" NAME="login_Test Coverage Results" MODIFIED="1528387630781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1636634322562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/FramWork$TeamManagement_Test.coverage" NAME="TeamManagement_Test Coverage Results" MODIFIED="1637049966842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FramWork" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allfile/run/run_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_assistant.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allfile/run/run_assistant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_sendfile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allfile/run/run_sendfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commonFunction.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/allfile/commonFunction/commonFunction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mergsheets_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allfile/scripts/mergsheets_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>txt_username_error_msg_loc</find>
+      <find>选择板块</find>
+      <find>ERROR</find>
+      <find>mk_test_name</find>
+      <find>testloginCase</find>
+      <find>if name_fmt is TestNameFormat.INDEX_ONLY or not is_trivial(value):</find>
+      <find>test_zassistant_setExcelStyle</find>
+      <find>test_mergAssistantSheet</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/logs/2018_06_09.log" />
+        <option value="$PROJECT_DIR$/BaseInfoConfig/BaseInfoCofig.py" />
+        <option value="$PROJECT_DIR$/BaseInfoConfig/LogMessage.py" />
+        <option value="$PROJECT_DIR$/configTools/DbTools.py" />
+        <option value="$PROJECT_DIR$/configTools/FileTools.py" />
+        <option value="$PROJECT_DIR$/configTools/testFile.py" />
+        <option value="$PROJECT_DIR$/libs/ShareModules.py" />
+        <option value="$PROJECT_DIR$/Po/MemberCenter/StudentList/AddStudentPage.py" />
+        <option value="$PROJECT_DIR$/Po/MemberCenter/StudentListPage.py" />
+        <option value="$PROJECT_DIR$/script/AddStudent_Test.py" />
+        <option value="$PROJECT_DIR$/script/AddSubject_Test.py" />
+        <option value="$PROJECT_DIR$/BaseInfoConfig/BasePathConfig.py" />
+        <option value="$PROJECT_DIR$/logs/2021_11_11.log" />
+        <option value="$PROJECT_DIR$/config/info.ini" />
+        <option value="$PROJECT_DIR$/configTools/IniFileTools.py" />
+        <option value="$PROJECT_DIR$/configTools/CsvTools.py" />
+        <option value="$PROJECT_DIR$/script/testfile.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/ddt.py" />
+        <option value="$PROJECT_DIR$/configTools/ExcelTools.py" />
+        <option value="$PROJECT_DIR$/Po/LoginPage.py" />
+        <option value="D:/BaiduNetdiskDownload/Day1.py" />
+        <option value="$PROJECT_DIR$/script/testt.py" />
+        <option value="$PROJECT_DIR$/logs/2021_11_15.log" />
+        <option value="$PROJECT_DIR$/report/2021-11-36-16_36_38.html" />
+        <option value="$PROJECT_DIR$/script/listDate.py" />
+        <option value="$PROJECT_DIR$/Po/BasePage.py" />
+        <option value="$PROJECT_DIR$/libs/ShareBusiness.py" />
+        <option value="$PROJECT_DIR$/script/Login_Test.py" />
+        <option value="$PROJECT_DIR$/config/yamlData" />
+        <option value="$PROJECT_DIR$/configTools/YamlTool.py" />
+        <option value="$PROJECT_DIR$/Po/login_page/LoginPage.py" />
+        <option value="$PROJECT_DIR$/script/TeamManagement_Test.py" />
+        <option value="$PROJECT_DIR$/Po/worktable_page/team_management_page/TeamManagementPage.py" />
+        <option value="$PROJECT_DIR$/configTools/YamlTools.py" />
+        <option value="$PROJECT_DIR$/configTools/yamlTool.py" />
+        <option value="$PROJECT_DIR$/configTools/yamlArry.yaml" />
+        <option value="$PROJECT_DIR$/configTools/yamlData.yaml" />
+        <option value="$PROJECT_DIR$/script/MainTest.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/jhtjjb_group_test.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/txcd_group_test.py" />
+        <option value="$PROJECT_DIR$/allfile/run/run_alltest.py" />
+        <option value="$PROJECT_DIR$/allfile/data_styleGreep.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/txcd_assistant_test.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/jhtjjbhf_assistant_test.py" />
+        <option value="$PROJECT_DIR$/allfile/run/run.py" />
+        <option value="$PROJECT_DIR$/allfile/run/run_group.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/test_data_styleGreep.py" />
+        <option value="$PROJECT_DIR$/allfile/scripts/mergsheets_test.py" />
+        <option value="$PROJECT_DIR$/allfile/run/run_assistant.py" />
+        <option value="$PROJECT_DIR$/allfile/run/run_sendfile.py" />
+        <option value="$PROJECT_DIR$/allfile/commonFunction/commonFunction.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-45" />
+    <option name="y" value="120" />
+    <option name="width" value="1420" />
+    <option name="height" value="879" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+              <item name="allfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+              <item name="allfile" type="462c0819:PsiDirectoryNode" />
+              <item name="commonFunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+              <item name="allfile" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+              <item name="allfile" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FramWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FramWork" type="462c0819:PsiDirectoryNode" />
+              <item name="allfile" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FramWork\allfile\scripts" />
+      <recent name="D:\FramWork\Po\login_page" />
+      <recent name="C:\Users\Andrew\PycharmProjects\Day2\script" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FramWork\allfile\scripts" />
+      <recent name="D:\FramWork\configTools" />
+      <recent name="D:\FramWork\config" />
+      <recent name="C:\Users\Andrew\PycharmProjects\Day2\other" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_sendfile">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allfile/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/allfile/run/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_sendfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allfile/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/allfile/run/run_sendfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="Unittests in D:/FramWork/allfile/run/run_alltest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allfile/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/allfile/run/run_alltest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in run_assistant.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allfile/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/allfile/run/run_assistant.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in run_group.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/allfile/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/allfile/run/run_group.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="FramWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in D:/FramWork/allfile/run/run_alltest.py" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python tests.Unittests in run_assistant.py" />
+      <item itemvalue="Python.run_sendfile" />
+      <item itemvalue="Python tests.Unittests in run_group.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_sendfile" />
+        <item itemvalue="Python tests.Unittests in run_assistant.py" />
+        <item itemvalue="Python tests.Unittests in run_group.py" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests in D:/FramWork/allfile/run/run_alltest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78fe96bc-1534-490a-88b2-ea563e841420" name="Default" comment="" />
+      <created>1528262008083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528262008083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 51m 31s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 55m 48s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 56m 31s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 56m 53s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 57m 26s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 16h 59m 33s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 17h 00m 16s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 17h 02m 19s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 17h 02m 42s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_run_assistant_py - 2022.01.04 at 17h 03m 01s.xml">
+      <configuration name="Unittests in run_assistant.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19590643" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32894737" />
+      <window_info active="true" content_ui="combo" x="599" y="46" width="338" height="731" id="Project" order="0" sideWeight="0.49889135" visible="true" weight="0.24262735" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" sideWeight="0.50110865" side_tool="true" weight="0.22654155" />
+      <window_info id="Favorites" order="2" sideWeight="0.50110865" side_tool="true" weight="0.22654155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3448276" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.31432748" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/report/2021-11-26-17_26_50.html" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-32-17_32_10.html" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-07-18_07_18.html" />
+    <entry file="file://$PROJECT_DIR$/script/testfile.py" />
+    <entry file="file://$PROJECT_DIR$/script/testt.py" />
+    <entry file="file://$PROJECT_DIR$/BaseInfoConfig/BasePathConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2021-11-30-15_30_22.html" />
+    <entry file="file://$PROJECT_DIR$/Po/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2021-11-34-15_34_24.html" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-37-15_37_26.html" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-39-15_39_12.html" />
+    <entry file="file://$PROJECT_DIR$/logs/2021_11_15.log" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-50-15_50_17.html" />
+    <entry file="file://$PROJECT_DIR$/libs/ShareModules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/ShareBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2021_11_16.log" />
+    <entry file="file://$PROJECT_DIR$/report/2021-11-06-16_06_47.html" />
+    <entry file="file://D:/BaiduNetdiskDownload/Day1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="62" column="22" lean-forward="true" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/listDate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="70" lean-forward="true" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/Day3(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="229" column="19" lean-forward="true" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/Day3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4175" />
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduNetdiskDownload/Day2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/yamlData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/yaml/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/TeamManagement_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Po/login_page/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2021-11-28-17_28_38.html" />
+    <entry file="file://$PROJECT_DIR$/configTools/ExcelTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configTools/FileTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configTools/YamlTools.py" />
+    <entry file="file://$PROJECT_DIR$/configTools/yamlTool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configTools/yamlData.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/MainTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configTools/DbTools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/Login_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/run/run_alltest.py" />
+    <entry file="file://$PROJECT_DIR$/Po/worktable_page/team_management_page/TeamManagementPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/run_testall_testall2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/txcd_group_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="80" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/jhtjjb_group_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/mergsheets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/data_styleGreep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/jhtjjbhf_assistant_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/run/run.py" />
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/txcd_assistant_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/test_data_styleGreep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="37" column="69" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/run/run_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/scripts/mergsheets_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/run/run_assistant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/run/run_sendfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allfile/commonFunction/commonFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
